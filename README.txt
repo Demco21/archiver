@@ -14,4 +14,4 @@ The following is an explanation of each flag:
 -a flag archives the given files as archivename
 -u flag unarchives the given archive into their respective files
 -l flag lists some facts about the given archive
--v flag verifies that the archive is not corrupt
+-v flag verifies that the given archive is not corrupt and matches the contents of the given files
