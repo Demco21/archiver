@@ -12,6 +12,6 @@ Each file should be separated by a space.
 
 The following is an explanation of each flag:  
 -a flag archives the given files as archivename
--u unarchives the given archive into their respective files
--l list some facts about the given archive
--v verifies that the archive is not corrupt
+-u flag unarchives the given archive into their respective files
+-l flag lists some facts about the given archive
+-v flag verifies that the archive is not corrupt
